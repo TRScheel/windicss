@@ -18,7 +18,7 @@
 <p align="center">Next generation utility-first CSS framework.</p>
 
 <p align="center">
-If you are already familiar with Tailwind CSS, think about Windi CSS as an <b>on-demanded</b> alternative to Tailwind, which provides faster load times, <b>fully compatible with Tailwind v2.0</b> and with a bunch of additional cool features.
+If you are already familiar with Tailwind CSS; think about Windi CSS as an <b>on-demanded</b> alternative to Tailwind, which provides faster load times, <b>fully compatible with Tailwind v2.0</b> and with a bunch of additional cool features.
 </p>
 
 [windi css]: https://windicss.org
